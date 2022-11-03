@@ -1,0 +1,29 @@
+1.Create html file with 4 input boxes –name,qualification,age,email,submit
+button.
+
+<html>
+<head>
+<title>ASSIGNMENT-I</title>
+</head>
+<body>
+<form>
+<center>
+<br/><br/>
+Name:<input type="text" name="name" id="namE" placeholder="enter your
+name"/><br/><br/>
+Qualification:
+<select name="qualification" id="qualification">
+<option value="ba">B.A.</option>
+<option value="bcom">B.Com.</option>
+<option value="bed">B.Ed.</option>
+<option value="bca">BCA</option>
+</select><br/><br/>
+Age:<input type="number" name="age" id="age" placeholder="enter your
+age"/><br/><br/>
+Email:<input type="email" name="email" placeholder="enter your
+email"/><br/><br/>
+Submit:<input type="submit" value="submit"/>
+</center>
+</form>
+</body>
+</html
